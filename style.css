@@ -1,0 +1,91 @@
+.mastah {
+  font-family: arial, sans-serif;
+  font-size: large;
+  margin: 100px;
+  padding: 69px 250px;
+  background-color: whitesmoke;
+  box-shadow: 1px 5px 20px;
+  color: black;
+  border-radius: 24px;
+  -webkit-border-radius: 24px;
+  -moz-border-radius: 24px;
+  -ms-border-radius: 24px;
+  -o-border-radius: 24px;
+}
+
+.intro h1{
+  text-align: left;
+}
+
+.intro p{
+  text-align: justify;
+}
+
+.contact {
+  padding-bottom: 13px;
+}
+
+.cv a{
+  text-decoration: none;
+  color: black;
+  margin-left: 1px;
+  padding-top: 15px;
+  text-align: left;
+}
+
+.cv img{
+  align-items: center;
+}
+
+.contact button {
+  font-family: sans-serif;
+  font-size: medium;
+  padding: 4px 20px;
+  background-color: black;
+  box-shadow: 1px 5px 10px;
+  color: rgb(223, 223, 223);
+  border-color: black;
+  border-radius: 13px;
+  -webkit-border-radius: 13px;
+  -moz-border-radius: 13px;
+  -ms-border-radius: 13px;
+  -o-border-radius: 13px;
+}
+
+.sosmed {
+  justify-content: center;
+  display: flex;
+  padding: 10px;
+}
+
+.profile {
+  text-align: center;
+  border: 1px;
+  margin: auto;
+  background-color: whitesmoke;
+  box-shadow: 1px 9px 33px;
+  border-radius: 24px;
+  -webkit-border-radius: 24px;
+  -moz-border-radius: 24px;
+  -ms-border-radius: 24px;
+  -o-border-radius: 24px;
+}
+
+.profile img {
+  border-radius: 24px 24px 0 0;
+  -webkit-border-radius: 24px 24px 0 0;
+  -moz-border-radius: 24px 24px 0 0;
+  -ms-border-radius: 24px 24px 0 0;
+  -o-border-radius: 24px 24px 0 0;
+}
+
+.card h2{;
+  padding-top: 13px;
+  margin: 0;
+}
+
+.card p{
+    padding-bottom: 13px;
+    margin: 0;
+    color: black;
+}

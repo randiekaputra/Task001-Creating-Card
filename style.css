@@ -28,13 +28,12 @@
 .cv a{
   text-decoration: none;
   color: black;
-  margin-left: 1px;
-  padding-top: 15px;
+  padding-top: 10px;
   text-align: left;
 }
 
 .cv img{
-  align-items: center;
+  margin-left: 10px;
 }
 
 .contact button {
@@ -55,7 +54,7 @@
 .sosmed {
   justify-content: center;
   display: flex;
-  padding: 10px;
+  padding: 5px;
 }
 
 .profile {
